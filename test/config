@@ -1,0 +1,16 @@
+#config files
+
+# input directory where the input mp3 are located :
+input_directory=/home/kiran/Music/Songs
+
+#output directory where the mp3's are to be copied to:
+output_directory=/home/kiran/Music/temp
+
+#delete original files after copy ?(true/false)
+delete_original=false
+
+#album name in case a file has no album name :
+no_album_name=Miscellaneous Songs
+
+# music file extnesion :(mp3)
+file_extension=mp3
